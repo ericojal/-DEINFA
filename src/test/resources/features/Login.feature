@@ -21,3 +21,6 @@ Feature: Login feature
       | Monkey   | Monkey123 | Invalid credentials      |
       |          | admin123  | Username cannot be empty |
       | Admin    |           | Password cannot be empty |
+
+      
+      
